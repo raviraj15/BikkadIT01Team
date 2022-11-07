@@ -1,6 +1,6 @@
 package com.BikkadIT.dao;
 
-public interface DaoImpl {
+public interface Dao{
 	
 	public int serviceUser();
 	

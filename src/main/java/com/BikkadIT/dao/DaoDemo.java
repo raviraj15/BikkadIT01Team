@@ -1,6 +1,6 @@
 package com.BikkadIT.dao;
 
-public class DaoImpl {
+public class DaoImpl{
 	
 		
 	
